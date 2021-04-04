@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Jaime   Carla](https://user-images.githubusercontent.com/79773016/113497360-a2269000-94c0-11eb-8d92-276dd04244ca.gif)
+![Untitled design-High-Quality](https://user-images.githubusercontent.com/79773016/113497704-ac965900-94c3-11eb-9245-1cc2e0241e15.jpg)
+
 <!--
 **luiguiDev/luiguiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
