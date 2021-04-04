@@ -1,7 +1,6 @@
 
 ![Untitled design-High-Quality](https://user-images.githubusercontent.com/79773016/113497890-41e61d00-94c5-11eb-8489-c75e0bdf950f.jpg)
 
-
 <h1 align="center">Hi 👋, I'm Luis Sandoval</h1>
 <h3 align="center">A passionate software developer from Costa Rica</h3>
 
@@ -15,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/luiguidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luiguidev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luissandoval18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luissandoval18" height="30" width="40" /></a>
-<a href="https://kaggle.com/luiguidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="luiguidev" height="30" width="40" /></a>
+<a href="https://instagram.com/luiguidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luiguidev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
