@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hey welcome, my name is Luis Sandoval</h1>
+<h1 align="center">Hey welcome, I am Luis Sandoval ✌🏻</h1>
 <h3 align="center">A passionate software developer based on Costa Rica</h3>
 
 - 🌱 I’m currently learning **about architecture, .NET Stack**
