@@ -28,15 +28,6 @@ I’m a software engineer based in Cartago, Costa Rica 🇨🇷. Passionate abou
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
