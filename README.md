@@ -50,6 +50,8 @@ I’m a software engineer based in Cartago, Costa Rica 🇨🇷. Passionate abou
 <br/>  
 
 
+<img src="https://raw.githubusercontent.com/LuisiitoDev/LuisiitoDev/output/snake.svg" alt="Snake animation" />
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
