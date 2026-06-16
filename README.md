@@ -1,78 +1,84 @@
-## Hey 👋, I am Luis Sandoval  
-  
+<h1 align="center">Hey 👋, I'm Luis Sandoval</h1>
+<h3 align="center">Senior Software Engineer · .NET · Azure AI · Cartago, Costa Rica 🇨🇷</h3>
 
-<a href="https://github.com/LuisiitoDev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/LuisiitoDev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/luisiitodev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/luisiitodev" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/luisiitodev" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <a href="https://github.com/LuisiitoDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/luisiitodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/LuisiitoDev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/luisiitodev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/luisiitodev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
+---
 
+### 🙋‍♂️ About Me
 
-### Hi there! 👋  
-I’m a software engineer based in Cartago, Costa Rica 🇨🇷. Passionate about software development, I find joy in creating solutions using code. For me, software development is not just work; it’s a fun and exciting journey. 🚀
+Senior Software Engineer with **5+ years** of experience building backend and cloud-based systems with **.NET** and **Microsoft Azure**. I focus on designing reliable, maintainable solutions for real-world business problems — not chasing trends.
 
-  
-  
+- 🏗️ Led company-wide migrations from Xamarin Forms to **.NET MAUI**, modernizing cross-platform mobile apps.
+- ☁️ Architected large-scale data migrations from SQL Server to **Azure Blob Storage** (billions of files).
+- 🤖 Currently building **AI-powered** solutions with **Azure AI** — including multi-tenant ticketing with AI-assisted chat.
+- 🧾 Played a key role in Costa Rica's electronic invoicing compliance platform (v4.3 → v4.4, Ministerio de Hacienda).
+- 🎓 **Microsoft Certified**: Azure AI Engineer Associate (AI-102) · Azure Developer Associate (AZ-204) · SQL AI Developer Associate (DP-800).
+- 💬 Ask me about .NET, Azure AI, Clean Architecture, or cloud migrations.
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/luisiitodev) or [linktr.ee/luisiitodev](https://linktr.ee/luisiitodev).
 
-<br/>  
+---
 
+### 🚀 Featured Project
 
-<br/>  
+#### [Nexus AI Support](https://github.com/LuisiitoDev/nexus-ai-support)
+> A **Clean Architecture .NET 10** solution for AI-assisted customer support — featuring multi-tenant ticketing, AI chat orchestration, SQL Server persistence, and Minimal API endpoints.
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
-</div>  
+### 🛠️ Languages and Tools
 
-<br/>  
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
+---
 
-<img src="https://raw.githubusercontent.com/LuisiitoDev/LuisiitoDev/output/snake.svg" alt="Snake animation" />
+### 📊 GitHub Stats
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=LuisiitoDev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Luis's GitHub stats" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisiitoDev&hide_border=true&layout=compact&theme=tokyonight" alt="Top languages" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuisiitoDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisiitoDev&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-</td><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisiitoDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=LuisiitoDev&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisiitoDev&style=flat-square&color=blue" alt="Profile views" />
+</p>
