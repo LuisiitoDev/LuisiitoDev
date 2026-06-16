@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Luis Sandoval</h1>
-<h3 align="center">Software Engineer · .NET & React · Cartago, Costa Rica 🇨🇷</h3>
+<h3 align="center">Senior Software Engineer · .NET · Azure AI · Cartago, Costa Rica 🇨🇷</h3>
 
 <p align="center">
   <a href="https://github.com/LuisiitoDev" target="_blank">
@@ -23,11 +23,22 @@
 
 ### 🙋‍♂️ About Me
 
-- 💻 Software engineer who builds web applications with **.NET** and **React**.
-- 🌱 Always learning — turning ideas into clean, maintainable code.
-- 🚀 I genuinely enjoy software development; for me it's a fun and exciting journey.
-- 💬 Ask me about C#, .NET, React, or anything front-end and back-end.
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/luisiitodev).
+Senior Software Engineer with **5+ years** of experience building backend and cloud-based systems with **.NET** and **Microsoft Azure**. I focus on designing reliable, maintainable solutions for real-world business problems — not chasing trends.
+
+- 🏗️ Led company-wide migrations from Xamarin Forms to **.NET MAUI**, modernizing cross-platform mobile apps.
+- ☁️ Architected large-scale data migrations from SQL Server to **Azure Blob Storage** (billions of files).
+- 🤖 Currently building **AI-powered** solutions with **Azure AI** — including multi-tenant ticketing with AI-assisted chat.
+- 🧾 Played a key role in Costa Rica's electronic invoicing compliance platform (v4.3 → v4.4, Ministerio de Hacienda).
+- 🎓 **Microsoft Certified**: Azure AI Engineer Associate (AI-102) · Azure Developer Associate (AZ-204).
+- 💬 Ask me about .NET, Azure AI, Clean Architecture, or cloud migrations.
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/luisiitodev) or [linktr.ee/luisiitodev](https://linktr.ee/luisiitodev).
+
+---
+
+### 🚀 Featured Project
+
+#### [Nexus AI Support](https://github.com/LuisiitoDev/nexus-ai-support)
+> A **Clean Architecture .NET 10** solution for AI-assisted customer support — featuring multi-tenant ticketing, AI chat orchestration, SQL Server persistence, and Minimal API endpoints.
 
 ---
 
@@ -36,12 +47,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=windows&logoColor=white" alt="XAML" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
