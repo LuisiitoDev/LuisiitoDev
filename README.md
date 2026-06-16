@@ -29,7 +29,7 @@ Senior Software Engineer with **5+ years** of experience building backend and cl
 - ☁️ Architected large-scale data migrations from SQL Server to **Azure Blob Storage** (billions of files).
 - 🤖 Currently building **AI-powered** solutions with **Azure AI** — including multi-tenant ticketing with AI-assisted chat.
 - 🧾 Played a key role in Costa Rica's electronic invoicing compliance platform (v4.3 → v4.4, Ministerio de Hacienda).
-- 🎓 **Microsoft Certified**: Azure AI Engineer Associate (AI-102) · Azure Developer Associate (AZ-204) · SQL AI Developer Associate.
+- 🎓 **Microsoft Certified**: Azure AI Engineer Associate (AI-102) · Azure Developer Associate (AZ-204) · SQL AI Developer Associate (DP-800).
 - 💬 Ask me about .NET, Azure AI, Clean Architecture, or cloud migrations.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/luisiitodev) or [linktr.ee/luisiitodev](https://linktr.ee/luisiitodev).
 
