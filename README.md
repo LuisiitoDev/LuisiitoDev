@@ -65,14 +65,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisiitoDev&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisiitoDev&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub trophies" />
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/LuisiitoDev/LuisiitoDev/output/snake.svg" alt="Snake animation" />
-
 ---
 
 <p align="center">
